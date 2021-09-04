@@ -1,7 +1,10 @@
-# Install dependencies 
+### Install dependencies 
 
-### `npm install`
+# `npm install`
 
-# 127.0.0.1:3000 local dev server
+### 127.0.0.1:3000 local dev server
 
-### `npm start`
+# `npm start`
+
+### Links
+  - Live URL: [here](https://minibrusp.github.io/simple-todo-app/)
